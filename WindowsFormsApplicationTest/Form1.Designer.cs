@@ -36,9 +36,9 @@
             // 
             // listView1
             // 
-            this.listView1.Location = new System.Drawing.Point(228, 29);
+            this.listView1.Location = new System.Drawing.Point(285, 29);
             this.listView1.Name = "listView1";
-            this.listView1.Size = new System.Drawing.Size(454, 192);
+            this.listView1.Size = new System.Drawing.Size(397, 192);
             this.listView1.TabIndex = 0;
             this.listView1.UseCompatibleStateImageBehavior = false;
             // 
@@ -46,7 +46,7 @@
             // 
             this.listView2.Location = new System.Drawing.Point(12, 29);
             this.listView2.Name = "listView2";
-            this.listView2.Size = new System.Drawing.Size(200, 192);
+            this.listView2.Size = new System.Drawing.Size(255, 192);
             this.listView2.TabIndex = 1;
             this.listView2.UseCompatibleStateImageBehavior = false;
             // 
@@ -61,7 +61,7 @@
             // 
             // btOdznacz
             // 
-            this.btOdznacz.Location = new System.Drawing.Point(137, 248);
+            this.btOdznacz.Location = new System.Drawing.Point(192, 248);
             this.btOdznacz.Name = "btOdznacz";
             this.btOdznacz.Size = new System.Drawing.Size(75, 23);
             this.btOdznacz.TabIndex = 3;
