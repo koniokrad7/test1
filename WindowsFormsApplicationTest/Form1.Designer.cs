@@ -61,9 +61,9 @@
             // 
             // btOdznacz
             // 
-            this.btOdznacz.Location = new System.Drawing.Point(130, 248);
+            this.btOdznacz.Location = new System.Drawing.Point(151, 248);
             this.btOdznacz.Name = "btOdznacz";
-            this.btOdznacz.Size = new System.Drawing.Size(137, 23);
+            this.btOdznacz.Size = new System.Drawing.Size(116, 23);
             this.btOdznacz.TabIndex = 3;
             this.btOdznacz.Text = "odznacz";
             this.btOdznacz.UseVisualStyleBackColor = true;
