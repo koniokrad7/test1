@@ -54,7 +54,7 @@
             // 
             this.btZaznacz.Location = new System.Drawing.Point(12, 248);
             this.btZaznacz.Name = "btZaznacz";
-            this.btZaznacz.Size = new System.Drawing.Size(112, 23);
+            this.btZaznacz.Size = new System.Drawing.Size(133, 23);
             this.btZaznacz.TabIndex = 2;
             this.btZaznacz.Text = "zaznacz";
             this.btZaznacz.UseVisualStyleBackColor = true;
