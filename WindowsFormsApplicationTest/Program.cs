@@ -13,7 +13,7 @@ namespace WindowsFormsApplicationTest
         /// </summary>
         [STAThread]
         static void Main()
-        {   //test1   lll
+        {   //test1   
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
